@@ -1,0 +1,169 @@
+body {
+    background-color: black;
+}
+
+.btn {
+    color: white;
+    font-size: xx-large;
+    position: absolute;
+    left: 100px;
+    top: 30px;
+}
+
+h1 {
+    color: #fff;
+    font-weight: 4440;
+    font-family: Futura Maxi W05 Bold, sans-serif;
+    letter-spacing: -.02em;
+    font-size: 10rem;
+    max-width: none;
+    margin-bottom: 6rem;
+    margin-left: -.6rem;
+    opacity: 1;
+    left: 100px;
+    top: 30px;
+    position: relative;
+}
+
+.viewwork {
+    color: white;
+    box-sizing: inherit;
+    background-color: initial;
+    color: #fff;
+    text-decoration: none;
+    font-family: Futura Maxi W05 Bold, sans-serif;
+    font-size: 1.6rem;
+    letter-spacing: .05em;
+    line-height: 1.75;
+    grid-column: 1/-1;
+    display: flex;
+    align-items: center;
+    justify-self: start;
+    text-transform: lowercase;
+    opacity: 1;
+    left: 100px;
+    top: 1px;
+    animation: forwards;
+    position: relative;
+}
+
+.Text {
+    font: 14px "Helvetica Neue", Helvetica, Arial, sans-serif;
+    list-style: none;
+    margin: 0;
+    border: 0;
+    outline: 0;
+    font-style: inherit;
+    font-family: inherit;
+    font-size: 100%;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: none;
+    text-align: center;
+    line-height: 1;
+    transition: 0.2s;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: right;
+    float: right;
+    position: absolute;
+    right: 300px;
+    top: 30px;
+}
+
+.Text1 {
+    font: 14px "Helvetica Neue", Helvetica, Arial, sans-serif;
+    list-style: none;
+    margin: 0;
+    border: 0;
+    outline: 0;
+    font-style: inherit;
+    font-family: inherit;
+    font-size: 100%;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: none;
+    text-align: center;
+    line-height: 1;
+    transition: 0.2s;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: right;
+    float: right;
+    position: absolute;
+    right: 200px;
+    top: 30px;
+}
+
+.Text2 {
+    font: 14px "Helvetica Neue", Helvetica, Arial, sans-serif;
+    list-style: none;
+    margin: 0;
+    border: 0;
+    outline: 0;
+    font-style: inherit;
+    font-family: inherit;
+    font-size: 100%;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: none;
+    text-align: center;
+    line-height: 1;
+    transition: 0.2s;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: right;
+    float: right;
+    position: absolute;
+    right: 80px;
+    top: 30px
+}
+
+.mind {
+    -webkit-font-smoothing: antialiased;
+    -webkit-tap-highlight-color: transparent;
+    --nav-layer1: 10;
+    --nav-layer2: 20;
+    --nav-layer3: 30;
+    --nav-icon-height: 41px;
+    --nav-padding: 55px;
+    --nav-height: 151px;
+    --wave-height: 2rem;
+    --grid-template-columns: repeat(6, 1fr);
+    --grid-margin: 104px;
+    --grid-gap: 52px;
+    --grid-columns: 6;
+    text-align: right;
+    text-transform: lowercase;
+    box-sizing: inherit;
+    background-color: initial;
+    color: #fff;
+    text-decoration: none;
+    font-family: Futura Maxi W05 Bold, sans-serif;
+    font-size: 1.6rem;
+    letter-spacing: .05em;
+    line-height: 1.75;
+    position: relative;
+    cursor: pointer;
+    left: 1300px;
+}
+
+dt {
+    text-align: right;
+    text-transform: lowercase;
+    box-sizing: inherit;
+    background-color: initial;
+    text-decoration: none;
+    font-family: Futura Maxi W05 Bold, sans-serif;
+    font-size: 1.3rem;
+    letter-spacing: .05em;
+    line-height: 1.75;
+    position: relative;
+    cursor: pointer;
+    color: #565656;
+    bottom: 70px;
+    right: 95px;
+}

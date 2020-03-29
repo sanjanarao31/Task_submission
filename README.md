@@ -4,6 +4,6 @@ Task - Google Chrome 2020-03-29 09-36-14 ----THIS FILE IS THE SCREENRECODING OF 
 
 
 
- ![](tsk.png)
+ ![](img.png)
 
- ![](tsks.png)
+ ![](image.png)
